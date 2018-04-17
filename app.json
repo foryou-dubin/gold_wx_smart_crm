@@ -9,20 +9,20 @@
     "borderStyle": "black",
     "list": [
       {
-        "selectedIconPath":"pages/images/truck_detail_select.png",
-        "iconPath": "pages/images/truck_detail_unselect.png",
+        "selectedIconPath":"pages/images/icon_tab_car_normal_pre@2x.png",
+        "iconPath": "pages/images/icon_tab_car_normal@2x.png",
         "pagePath": "pages/index/index",
         "text": "车队长"
       },
       {
-        "selectedIconPath": "pages/images/truck_detail_select.png",
-        "iconPath": "pages/images/truck_detail_unselect.png",
+        "selectedIconPath": "pages/images/icon_tab_borrow_normal_pre@2x.png",
+        "iconPath": "pages/images/icon_tab_borrow_normal@2x.png",
         "pagePath": "pages/index/index",
         "text": "借款"
       },
       {
-        "selectedIconPath": "pages/images/truck_detail_select.png",
-        "iconPath": "pages/images/truck_detail_unselect.png",
+        "selectedIconPath": "pages/images/icon_tab_personal_normal_pre@2x.png",
+        "iconPath": "pages/images/icon_tab_personal_normal@2x.png",
         "pagePath": "pages/index/index",
         "text": "工具"
       }
